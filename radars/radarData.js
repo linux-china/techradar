@@ -93,7 +93,7 @@ var radar_data = [
         "color": "#587486",
         "items": [
 
-            {"name": 'Docker', pc: {r: 170, t: 19}, movement: 't'},
+            {"name": 'Docker', pc: {r: 30, t: 19}, movement: 'c', url: "http://docker.io"},
             {"name": 'bind', pc: {r: 150, t: 69}, movement: 'c'},
             {"name": 'Appium', pc: {r: 110, t: 70}, movement: 'c', domain: 'mobile, front-end'},
             {"name": 'Android Studio', pc: {r: 180, t: 66}, movement: 'c', domain: 'mobile, dev'},
