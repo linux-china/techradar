@@ -124,9 +124,6 @@ var radar_data = [
         "left": (w - 200 + 30),
         "top": (h / 2 + 18),
         "items": [
-            {"name": 'CDI', pc: {r: 60, t: 290}, movement: 'c'},
-            {"name": 'Jersey', pc: {r: 60, t: 310}, movement: 'c'},
-
             {"name": 'Guice', pc: {r: 60, t: 278}, movement: 'c'},
             {"name": 'RxJava', pc: {r: 150, t: 298}, movement: 'c', domain: 'template'},
 
@@ -141,7 +138,7 @@ var radar_data = [
             {"name": 'Web Components', pc: {r: 260, t: 330}, movement: 'c'},
 
             {"name": 'Mustache/Handlebars template', pc: {r: 50, t: 298}, movement: 'c', domain: 'template'},
-            {"name": 'Spring ^', pc: {r: 360, t: 330}, movement: 'c'},
+            {"name": 'Spring 4', pc: {r: 360, t: 330}, movement: 'c'},
             {"name": "Java 6 and earlier", "pc": {"r": 390, "t": 350}, "movement": "c"}
         ]
     }
